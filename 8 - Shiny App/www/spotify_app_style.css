@@ -1,0 +1,10 @@
+a[href*="//"] {
+color: #191414;
+font-weight: bold
+}
+                                
+a[href^="mailto:"] {
+color: #191414;
+font-weight: bold
+}
+
